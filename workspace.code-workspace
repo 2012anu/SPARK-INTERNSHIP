@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "..\\web devlopment part 2"
+	},
+	{
+		"path": ".."
+	},
+	{
+		"path": "..\\..\\..\\..\\..\\xampp\\htdocs\\spark foundation internship"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "web development"
+  }
+}
